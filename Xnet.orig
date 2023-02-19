@@ -189,15 +189,15 @@
 <polygon fill="black" stroke="black" points="807.74,-221.98 804.24,-211.98 800.74,-221.98 807.74,-221.98"/>
 <text text-anchor="middle" x="833.24" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node12" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="920.24" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="920.24" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1390 -->
+<!-- 9894&#45;&gt;1390 -->
 <g id="edge15" class="edge">
-<title>9892&#45;&gt;1390</title>
+<title>9894&#45;&gt;1390</title>
 <path fill="none" stroke="black" d="M885.24,-176.76C857.61,-165.91 817.91,-151.14 782.24,-141 738.66,-128.6 687.54,-118.53 653.44,-112.42"/>
 <polygon fill="black" stroke="black" points="654.08,-108.98 643.63,-110.69 652.87,-115.87 654.08,-108.98"/>
 <text text-anchor="middle" x="857.24" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -224,7 +224,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Xnet</h3><div class="anchor" id="NodeIndex(1390)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/okfn/">okfn licenses</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Xnet</h3><a href="#NodeIndex(1390)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/Xnet</h3><div class="anchor" id="NodeIndex(10050)"></div><p>https://opensource.org/licenses/Xnet</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Xnet.html</h3><div class="anchor" id="NodeIndex(9785)"></div><p>https://spdx.org/licenses/Xnet.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9379)"></div><p>Per SPDX.org, this license is OSI certified. This License has been
+</div><h2>backward</h2><div class="tree"><h3>Xnet</h3><div class="anchor" id="NodeIndex(1390)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/okfn/">okfn licenses</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Xnet</h3><a href="#NodeIndex(1390)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/Xnet</h3><div class="anchor" id="NodeIndex(10050)"></div><p>https://opensource.org/licenses/Xnet</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Xnet.html</h3><div class="anchor" id="NodeIndex(9785)"></div><p>https://spdx.org/licenses/Xnet.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9379)"></div><p>Per SPDX.org, this license is OSI certified. This License has been
 voluntarily deprecated by its author.
 </p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] is_osi_approved</h3><div class="anchor" id="NodeIndex(3)"></div><p>is_osi_approved</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(9378)"></div><pre>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -261,7 +261,7 @@ California and by the laws of the United States of America.</pre><h5>Origins:</h
     9785 [ label = "https://spdx.org/licenses/Xnet.html" ]
     9791 [ label = "Bronze" ]
     9792 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     10050 [ label = "https://opensource.org/licenses/Xnet" ]
     1391 -> 1390 [ label = "Same" ]
     1392 -> 1390 [ label = "AppliesTo" ]
@@ -277,7 +277,7 @@ California and by the laws of the United States of America.</pre><h5>Origins:</h
     9791 -> 1390 [ label = "AppliesTo" ]
     9792 -> 9791 [ label = "AppliesTo" ]
     1540 -> 9791 [ label = "AppliesTo" ]
-    9892 -> 1390 [ label = "AppliesTo" ]
+    9894 -> 1390 [ label = "AppliesTo" ]
     10050 -> 1390 [ label = "AppliesTo" ]
     10050 -> 1391 [ label = "AppliesTo" ]
     1390 -> 1390 [ label = "HintsTowards" ]

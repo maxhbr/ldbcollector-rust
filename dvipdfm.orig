@@ -110,22 +110,22 @@
 <polygon fill="black" stroke="black" points="286.66,-120.84 276.21,-119.1 283.29,-126.98 286.66,-120.84"/>
 <text text-anchor="middle" x="349.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node7" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="458.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="458.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1447 -->
+<!-- 9894&#45;&gt;1447 -->
 <g id="edge8" class="edge">
-<title>9892&#45;&gt;1447</title>
+<title>9894&#45;&gt;1447</title>
 <path fill="none" stroke="black" d="M437.86,-174.79C423.15,-163.87 402.47,-149.89 382.4,-141 354.6,-128.69 321.62,-120.07 295.1,-114.46"/>
 <polygon fill="black" stroke="black" points="296.14,-111.1 285.64,-112.54 294.75,-117.96 296.14,-111.1"/>
 <text text-anchor="middle" x="437.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>dvipdfm</h3><div class="anchor" id="NodeIndex(1447)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] dvipdfm</h3><a href="#NodeIndex(1447)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(3496)"></div><p>Per Fedora, "should" does not mean "must", and there are implied rights for
+</div><h2>backward</h2><div class="tree"><h3>dvipdfm</h3><div class="anchor" id="NodeIndex(1447)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] dvipdfm</h3><a href="#NodeIndex(1447)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(3496)"></div><p>Per Fedora, "should" does not mean "must", and there are implied rights for
 unlimited copying and distribution rights for unmodified versions.
 </p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(3495)"></div><pre>A modified version of this file may be distributed, but it should be distributed
 with a *different* name. Changed files must be distributed *together with a
@@ -140,7 +140,7 @@ complete and unchanged* distribution of these files.</pre><h5>Origins:</h5><ul><
     1540 [ label = "Permissive" ]
     3495 [ label = "$TEXT" ]
     3496 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1448 -> 1447 [ label = "Same" ]
     1449 -> 1447 [ label = "AppliesTo" ]
     1447 -> 1447 [ label = "Same" ]
@@ -148,7 +148,7 @@ complete and unchanged* distribution of these files.</pre><h5>Origins:</h5><ul><
     1540 -> 1447 [ label = "AppliesTo" ]
     3495 -> 1447 [ label = "AppliesTo" ]
     3496 -> 1447 [ label = "AppliesTo" ]
-    9892 -> 1447 [ label = "AppliesTo" ]
+    9894 -> 1447 [ label = "AppliesTo" ]
     1447 -> 1447 [ label = "HintsTowards" ]
 }
 </pre></body></html>

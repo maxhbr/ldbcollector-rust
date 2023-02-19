@@ -97,22 +97,22 @@
 <polygon fill="black" stroke="black" points="219.21,-127.95 210.02,-122.68 213.92,-132.53 219.21,-127.95"/>
 <text text-anchor="middle" x="260.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node6" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="363.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="363.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;710 -->
+<!-- 9894&#45;&gt;710 -->
 <g id="edge7" class="edge">
-<title>9892&#45;&gt;710</title>
+<title>9894&#45;&gt;710</title>
 <path fill="none" stroke="black" d="M343.56,-174.51C330.06,-163.88 311.43,-150.35 293.4,-141 274.78,-131.35 252.92,-123.35 234.39,-117.45"/>
 <polygon fill="black" stroke="black" points="235.66,-114.18 225.08,-114.58 233.6,-120.87 235.66,-114.18"/>
 <text text-anchor="middle" x="346.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Glulxe</h3><div class="anchor" id="NodeIndex(710)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Glulxe</h3><a href="#NodeIndex(710)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(4092)"></div><pre>You may copy and distribute it freely, by any means and under any conditions,
+</div><h2>backward</h2><div class="tree"><h3>Glulxe</h3><div class="anchor" id="NodeIndex(710)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Glulxe</h3><a href="#NodeIndex(710)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(4092)"></div><pre>You may copy and distribute it freely, by any means and under any conditions,
 as long as the code and documentation is not changed. You may also incorporate
 this code into your own program and distribute that, or modify this code and
 use and distribute the modified version, as long as you retain a notice in your
@@ -126,14 +126,14 @@ program or documentation which mentions my name and the URL shown above.</pre><h
     712 [ label = "$JSON" ]
     1540 [ label = "Permissive" ]
     4092 [ label = "$TEXT" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     711 -> 710 [ label = "Same" ]
     712 -> 710 [ label = "AppliesTo" ]
     710 -> 710 [ label = "Same" ]
     710 -> 711 [ label = "Same" ]
     1540 -> 710 [ label = "AppliesTo" ]
     4092 -> 710 [ label = "AppliesTo" ]
-    9892 -> 710 [ label = "AppliesTo" ]
+    9894 -> 710 [ label = "AppliesTo" ]
     710 -> 710 [ label = "HintsTowards" ]
 }
 </pre></body></html>

@@ -1,0 +1,141 @@
+
+<head>
+  <style> body { margin: 0; } </style>
+  <script src="https://unpkg.com/force-graph"></script>
+</head>
+
+<body>
+  <div id="graph"></div>
+
+  <script>
+
+    const gData = 
+{"nodes":[{"id":"id_NodeIndex(10659)","name":"GPL 2 "},{"id":"id_NodeIndex(10178)","name":"GLPv2"},{"id":"id_NodeIndex(10660)","name":"GPL, Version 2.0"},{"id":"id_NodeIndex(1519)","name":"gnu gpl v2"},{"id":"id_NodeIndex(664)","name":"GNU General Public License v2.0 only"},{"id":"id_NodeIndex(10190)","name":"GPL-2+"},{"id":"id_NodeIndex(10652)","name":"version 2 of the GNU General Public License"},{"id":"id_NodeIndex(10666)","name":"GNU General Public License as published by the Free Software Foundation; version 2"},{"id":"id_NodeIndex(9646)","name":"https://spdx.org/licenses/GPL-2.0-only.html"},{"id":"id_NodeIndex(9647)","name":"https://spdx.org/licenses/GPL-2.0-or-later.html"},{"id":"id_NodeIndex(30)","name":"is_gnu"},{"id":"id_NodeIndex(10189)","name":"GPL v2.0 or later"},{"id":"id_NodeIndex(10679)","name":"scancode:gpl-2.0"},{"id":"id_NodeIndex(10667)","name":"GNU General Public License (GPL) version 2"},{"id":"id_NodeIndex(670)","name":"$JSON"},{"id":"id_NodeIndex(669)","name":"GPL-2.0-only"},{"id":"id_NodeIndex(1527)","name":"gpl"},{"id":"id_NodeIndex(10650)","name":"GNU General Public License Version2"},{"id":"id_NodeIndex(10648)","name":"GNU General Public License License, Version 2"},{"id":"id_NodeIndex(10651)","name":"GNU General Public License, Version 2.0"},{"id":"id_NodeIndex(10182)","name":"GPL v2.0"},{"id":"id_NodeIndex(10643)","name":"GNU GENERAL PUBLIC LICENSE (GPL Version 2, June 1991)"},{"id":"id_NodeIndex(10647)","name":"GNU General Public License 2"},{"id":"id_NodeIndex(668)","name":"$JSON"},{"id":"id_NodeIndex(10655)","name":"GNU Public License, Version 2"},{"id":"id_NodeIndex(10184)","name":"GNU General Public License version 2 or later"},{"id":"id_NodeIndex(1525)","name":"gplv2"},{"id":"id_NodeIndex(3)","name":"is_osi_approved"},{"id":"id_NodeIndex(9526)","name":"$RULE"},{"id":"id_NodeIndex(10187)","name":"GPL v2 or later"},{"id":"id_NodeIndex(10674)","name":"GNU Public License (GPL) Version2"},{"id":"id_NodeIndex(10680)","name":"osi:GPL-2.0"},{"id":"id_NodeIndex(10179)","name":"GNU General Public License (GPL) v2"},{"id":"id_NodeIndex(10194)","name":"GPLv2+"},{"id":"id_NodeIndex(10642)","name":"GNU GENERAL PUBLIC LICENSE Version 2"},{"id":"id_NodeIndex(10662)","name":"GPL License v.2"},{"id":"id_NodeIndex(10645)","name":"GNU GENERAL PUBLIC LICENSE, VERSION 2"},{"id":"id_NodeIndex(10180)","name":"GNU General Public License version 2 (GPL v2)"},{"id":"id_NodeIndex(1521)","name":"gpl v2"},{"id":"id_NodeIndex(672)","name":"$JSON"},{"id":"id_NodeIndex(10191)","name":"GPL-2.0 or later"},{"id":"id_NodeIndex(10661)","name":"GPL-v2"},{"id":"id_NodeIndex(10676)","name":"GNU General Public License (Version 2.0)"},{"id":"id_NodeIndex(4406)","name":"$TEXT"},{"id":"id_NodeIndex(9527)","name":"$RULE"},{"id":"id_NodeIndex(10185)","name":"GNU General Public License version 2 or later (GPL v2 or later)"},{"id":"id_NodeIndex(10188)","name":"GPL v2+"},{"id":"id_NodeIndex(10195)","name":"libGeoIPUpdate is GPLv2 or later"},{"id":"id_NodeIndex(10656)","name":"Gnu General Puplic License, Version 2.0"},{"id":"id_NodeIndex(4275)","name":"$NOTE"},{"id":"id_NodeIndex(10657)","name":"GNU GPL License, Version 2.0"},{"id":"id_NodeIndex(10664)","name":"GPL license, Version 2.0"},{"id":"id_NodeIndex(10670)","name":"GNU General Public License, Versions 2"},{"id":"id_NodeIndex(9654)","name":"strong"},{"id":"id_NodeIndex(665)","name":"$JSON"},{"id":"id_NodeIndex(671)","name":"GPL-2.0-or-later"},{"id":"id_NodeIndex(10654)","name":"GNU Public License 2.0"},{"id":"id_NodeIndex(10672)","name":"GPL version 2"},{"id":"id_NodeIndex(9899)","name":"strong_copyleft"},{"id":"id_NodeIndex(10677)","name":"GNU General Public License as published by the Free Software Foundation; Version 2 (GPL)"},{"id":"id_NodeIndex(31)","name":"Copyleft"},{"id":"id_NodeIndex(9892)","name":"Strongly Protective"},{"id":"id_NodeIndex(4405)","name":"gpl-2.0-plus"},{"id":"id_NodeIndex(663)","name":"GPL-2.0"},{"id":"id_NodeIndex(10678)","name":"GPL ver.2"},{"id":"id_NodeIndex(9965)","name":"https://opensource.org/licenses/GPL-2.0"},{"id":"id_NodeIndex(29)","name":"is_deprecated"},{"id":"id_NodeIndex(10186)","name":"GNU General Public License version 2 or later (GPLv2 or later)"},{"id":"id_NodeIndex(10193)","name":"GPLv2 or later"},{"id":"id_NodeIndex(10183)","name":"GPL-2"},{"id":"id_NodeIndex(10675)","name":"GNU General Public License, v.2"},{"id":"id_NodeIndex(10192)","name":"GPL2+"},{"id":"id_NodeIndex(10608)","name":"GNU General Public License 2.0 (or any later version)"},{"id":"id_NodeIndex(4272)","name":"GPL 2.0"},{"id":"id_NodeIndex(4407)","name":"$NOTE"},{"id":"id_NodeIndex(9650)","name":"GNU General Public License"},{"id":"id_NodeIndex(10644)","name":"GNU GENERAL PUBLIC LICENSE V2"},{"id":"id_NodeIndex(10653)","name":"GNU GPL v. 2"},{"id":"id_NodeIndex(9870)","name":"$RULE"},{"id":"id_NodeIndex(10658)","name":"GPLv2 "},{"id":"id_NodeIndex(667)","name":"GNU General Public License v2.0 or later"},{"id":"id_NodeIndex(4273)","name":"GNU General Public License 2.0"},{"id":"id_NodeIndex(10663)","name":"GPL V2 License"},{"id":"id_NodeIndex(10665)","name":"General Public License 2.0"},{"id":"id_NodeIndex(10668)","name":"The General Public License (GPL) Version 2"},{"id":"id_NodeIndex(10669)","name":"under the terms of version 2 of the GNU Public License"},{"id":"id_NodeIndex(10649)","name":"GNU General Public License V 2.0"},{"id":"id_NodeIndex(10673)","name":"GNU General Public License (v2.0"},{"id":"id_NodeIndex(4274)","name":"$TEXT"},{"id":"id_NodeIndex(13)","name":"is_fsf_free_libre"},{"id":"id_NodeIndex(1523)","name":"gpl2"},{"id":"id_NodeIndex(10646)","name":"GNU General Public License (GPL),Version 2"},{"id":"id_NodeIndex(10671)","name":"GNU Public License version 2"},{"id":"id_NodeIndex(666)","name":"GPL-2.0+"},{"id":"id_NodeIndex(10181)","name":"GPL v2 only"}],"links":[{"source":"id_NodeIndex(664)","target":"id_NodeIndex(663)","name":"Same"},{"source":"id_NodeIndex(665)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(29)","target":"id_NodeIndex(665)","name":"AppliesTo"},{"source":"id_NodeIndex(13)","target":"id_NodeIndex(665)","name":"AppliesTo"},{"source":"id_NodeIndex(30)","target":"id_NodeIndex(665)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(665)","name":"AppliesTo"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(665)","name":"AppliesTo"},{"source":"id_NodeIndex(667)","target":"id_NodeIndex(666)","name":"Same"},{"source":"id_NodeIndex(668)","target":"id_NodeIndex(666)","name":"AppliesTo"},{"source":"id_NodeIndex(29)","target":"id_NodeIndex(668)","name":"AppliesTo"},{"source":"id_NodeIndex(13)","target":"id_NodeIndex(668)","name":"AppliesTo"},{"source":"id_NodeIndex(30)","target":"id_NodeIndex(668)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(668)","name":"AppliesTo"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(668)","name":"AppliesTo"},{"source":"id_NodeIndex(664)","target":"id_NodeIndex(669)","name":"Same"},{"source":"id_NodeIndex(670)","target":"id_NodeIndex(669)","name":"AppliesTo"},{"source":"id_NodeIndex(13)","target":"id_NodeIndex(670)","name":"AppliesTo"},{"source":"id_NodeIndex(30)","target":"id_NodeIndex(670)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(670)","name":"AppliesTo"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(670)","name":"AppliesTo"},{"source":"id_NodeIndex(667)","target":"id_NodeIndex(671)","name":"Same"},{"source":"id_NodeIndex(672)","target":"id_NodeIndex(671)","name":"AppliesTo"},{"source":"id_NodeIndex(13)","target":"id_NodeIndex(672)","name":"AppliesTo"},{"source":"id_NodeIndex(30)","target":"id_NodeIndex(672)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(672)","name":"AppliesTo"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(672)","name":"AppliesTo"},{"source":"id_NodeIndex(1521)","target":"id_NodeIndex(663)","name":"HintsTowards"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(663)","name":"HintsTowards"},{"source":"id_NodeIndex(1523)","target":"id_NodeIndex(663)","name":"HintsTowards"},{"source":"id_NodeIndex(1525)","target":"id_NodeIndex(663)","name":"HintsTowards"},{"source":"id_NodeIndex(1527)","target":"id_NodeIndex(663)","name":"HintsTowards"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(669)","name":"Same"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(4272)","name":"Same"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(663)","name":"Same"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(4274)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(4275)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(4405)","target":"id_NodeIndex(671)","name":"Same"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(4405)","name":"AppliesTo"},{"source":"id_NodeIndex(4406)","target":"id_NodeIndex(4405)","name":"AppliesTo"},{"source":"id_NodeIndex(4407)","target":"id_NodeIndex(4405)","name":"AppliesTo"},{"source":"id_NodeIndex(9526)","target":"id_NodeIndex(669)","name":"AppliesTo"},{"source":"id_NodeIndex(9527)","target":"id_NodeIndex(671)","name":"AppliesTo"},{"source":"id_NodeIndex(669)","target":"id_NodeIndex(664)","name":"Same"},{"source":"id_NodeIndex(9646)","target":"id_NodeIndex(669)","name":"AppliesTo"},{"source":"id_NodeIndex(671)","target":"id_NodeIndex(667)","name":"Same"},{"source":"id_NodeIndex(9647)","target":"id_NodeIndex(671)","name":"AppliesTo"},{"source":"id_NodeIndex(9650)","target":"id_NodeIndex(669)","name":"Better"},{"source":"id_NodeIndex(9650)","target":"id_NodeIndex(671)","name":"Better"},{"source":"id_NodeIndex(9654)","target":"id_NodeIndex(9650)","name":"AppliesTo"},{"source":"id_NodeIndex(31)","target":"id_NodeIndex(9654)","name":"AppliesTo"},{"source":"id_NodeIndex(4273)","target":"id_NodeIndex(669)","name":"Same"},{"source":"id_NodeIndex(4273)","target":"id_NodeIndex(671)","name":"Same"},{"source":"id_NodeIndex(9870)","target":"id_NodeIndex(669)","name":"AppliesTo"},{"source":"id_NodeIndex(9870)","target":"id_NodeIndex(671)","name":"AppliesTo"},{"source":"id_NodeIndex(9892)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(9892)","target":"id_NodeIndex(666)","name":"AppliesTo"},{"source":"id_NodeIndex(9899)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(9899)","target":"id_NodeIndex(669)","name":"AppliesTo"},{"source":"id_NodeIndex(9899)","target":"id_NodeIndex(671)","name":"AppliesTo"},{"source":"id_NodeIndex(9965)","target":"id_NodeIndex(663)","name":"AppliesTo"},{"source":"id_NodeIndex(9965)","target":"id_NodeIndex(4273)","name":"AppliesTo"},{"source":"id_NodeIndex(10178)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(1519)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10179)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10180)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(4272)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(1521)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10181)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10182)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10183)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(669)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(1523)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(1525)","target":"id_NodeIndex(669)","name":"HintsTowards"},{"source":"id_NodeIndex(10184)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10185)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10186)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10187)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10188)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10189)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10190)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10191)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(666)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(671)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10192)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10193)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10194)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(10195)","target":"id_NodeIndex(671)","name":"HintsTowards"},{"source":"id_NodeIndex(666)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(671)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10184)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(667)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(666)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10190)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10188)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(671)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10192)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10194)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(10187)","target":"id_NodeIndex(10608)","name":"Same"},{"source":"id_NodeIndex(663)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(669)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10642)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10643)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(4273)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10644)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10644)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10645)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10179)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10646)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10647)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10648)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10649)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10642)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10650)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10644)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10651)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10645)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10652)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10653)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10654)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10655)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10656)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10657)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10658)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10659)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10660)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10661)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10662)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10663)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10664)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(1521)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10665)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10183)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(1523)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10666)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10667)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10668)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10669)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10670)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10652)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10671)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10672)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10673)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10674)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10675)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10676)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10677)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10678)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10679)","target":"id_NodeIndex(4273)","name":"Same"},{"source":"id_NodeIndex(10680)","target":"id_NodeIndex(4273)","name":"Same"}]}
+;
+
+let selfLoopLinks = {};
+let sameNodesLinks = {};
+const curvatureMinMax = 0.2;
+
+// 1. assign each link a nodePairId that combines their source and target independent of the links direction
+// 2. group links together that share the same two nodes or are self-loops
+gData.links.forEach(link => {
+  link.nodePairId = link.source <= link.target ? (link.source + "_" + link.target) : (link.target + "_" + link.source);
+  let map = link.source === link.target ? selfLoopLinks : sameNodesLinks;
+  if (!map[link.nodePairId]) {
+    map[link.nodePairId] = [];
+  }
+  map[link.nodePairId].push(link);
+});
+
+// Compute the curvature for self-loop links to avoid overlaps
+Object.keys(selfLoopLinks).forEach(id => {
+  let links = selfLoopLinks[id];
+  let lastIndex = links.length - 1;
+  links[lastIndex].curvature = 1;
+  let delta = (1 - curvatureMinMax) / lastIndex;
+  for (let i = 0; i < lastIndex; i++) {
+    links[i].curvature = curvatureMinMax + i * delta;
+  }
+});
+
+// Compute the curvature for links sharing the same two nodes to avoid overlaps
+Object.keys(sameNodesLinks).filter(nodePairId => sameNodesLinks[nodePairId].length > 1).forEach(nodePairId => {
+  let links = sameNodesLinks[nodePairId];
+  let lastIndex = links.length - 1;
+  let lastLink = links[lastIndex];
+  lastLink.curvature = curvatureMinMax;
+  let delta = 2 * curvatureMinMax / lastIndex;
+  for (let i = 0; i < lastIndex; i++) {
+    links[i].curvature = - curvatureMinMax + i * delta;
+    if (lastLink.source !== links[i].source) {
+      links[i].curvature *= -1; // flip it around, otherwise they overlap
+    }
+  }
+});
+
+const Graph = ForceGraph()
+  (document.getElementById('graph'))
+    .nodeAutoColorBy('type')
+    .linkAutoColorBy('label')
+    //.dagMode('lr').dagLevelDistance(300)
+    //.d3Force('collide', d3.forceCollide(13)).d3AlphaDecay(0.02).d3VelocityDecay(0.3)
+    .linkCurvature('curvature')
+    .linkDirectionalArrowRelPos(1)
+    .linkDirectionalArrowLength(6)
+  .nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.name;
+    const fontSize = 12/globalScale;
+    ctx.font = `${fontSize}px Sans-Serif`;
+    const textWidth = ctx.measureText(label).width;
+    const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+    ctx.fillRect(node.x - bckgDimensions[0] / 2, node.y - bckgDimensions[1] / 2, ...bckgDimensions);
+
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = node.color;
+    ctx.fillText(label, node.x, node.y);
+
+    node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
+  })
+  .nodePointerAreaPaint((node, color, ctx) => {
+    ctx.fillStyle = color;
+    const bckgDimensions = node.__bckgDimensions;
+    bckgDimensions && ctx.fillRect(node.x - bckgDimensions[0] / 2, node.y - bckgDimensions[1] / 2, ...bckgDimensions);
+  })
+  .linkCanvasObjectMode(() => 'after')
+  .linkCanvasObject((link, ctx) => {
+    const MAX_FONT_SIZE = 4;
+    const LABEL_NODE_MARGIN = Graph.nodeRelSize() * 1.5;
+
+    const start = link.source;
+    const end = link.target;
+
+    // ignore unbound links
+    if (typeof start !== 'object' || typeof end !== 'object') return;
+
+    // calculate label positioning
+    const textPos = Object.assign(...['x', 'y'].map(c => ({
+      [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+    })));
+
+    const relLink = { x: end.x - start.x, y: end.y - start.y };
+
+    const maxTextLength = Math.sqrt(Math.pow(relLink.x, 2) + Math.pow(relLink.y, 2)) - LABEL_NODE_MARGIN * 2;
+
+    let textAngle = Math.atan2(relLink.y, relLink.x);
+    // maintain label vertical orientation for legibility
+    if (textAngle > Math.PI / 2) textAngle = -(Math.PI - textAngle);
+    if (textAngle < -Math.PI / 2) textAngle = -(-Math.PI - textAngle);
+
+    const label = `${link.name}`;
+
+    // estimate fontSize to fit in link length
+    ctx.font = '1px Sans-Serif';
+    const fontSize = Math.min(MAX_FONT_SIZE, maxTextLength / ctx.measureText(label).width);
+    ctx.font = `${fontSize}px Sans-Serif`;
+    const textWidth = ctx.measureText(label).width;
+    const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+
+    // draw text label (with background rect)
+    ctx.save();
+    ctx.translate(textPos.x, textPos.y);
+    ctx.rotate(textAngle);
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+    ctx.fillRect(- bckgDimensions[0] / 2, - bckgDimensions[1] / 2, ...bckgDimensions);
+
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = 'darkgrey';
+    ctx.fillText(label, 0, 0);
+    ctx.restore();
+  })
+    .graphData(gData);
+  // Spread nodes a little wider
+  Graph.d3Force('charge').strength(-120);
+
+</script>
+</body>

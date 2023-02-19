@@ -50,15 +50,15 @@
 <polygon fill="black" stroke="black" points="400.21,-135.1 397.23,-124.93 393.22,-134.74 400.21,-135.1"/>
 <text text-anchor="middle" x="410.64" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9644 -->
+<!-- 9654 -->
 <g id="node7" class="node">
-<title>9644</title>
+<title>9654</title>
 <ellipse fill="none" stroke="black" cx="274.64" cy="-279" rx="32.49" ry="18"/>
 <text text-anchor="middle" x="274.64" y="-275.3" font-family="Times,serif" font-size="14.00">strong</text>
 </g>
-<!-- 31&#45;&gt;9644 -->
+<!-- 31&#45;&gt;9654 -->
 <g id="edge14" class="edge">
-<title>31&#45;&gt;9644</title>
+<title>31&#45;&gt;9654</title>
 <path fill="none" stroke="black" d="M274.64,-347.8C274.64,-336.58 274.64,-321.67 274.64,-308.69"/>
 <polygon fill="black" stroke="black" points="278.14,-308.98 274.64,-298.98 271.14,-308.98 278.14,-308.98"/>
 <text text-anchor="middle" x="303.64" y="-318.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -145,43 +145,43 @@
 <polygon fill="black" stroke="black" points="421.98,-76.12 418.46,-86.11 427.44,-80.49 421.98,-76.12"/>
 <text text-anchor="middle" x="446.14" y="-57.8" font-family="Times,serif" font-size="14.00">Same</text>
 </g>
-<!-- 9633 -->
+<!-- 9643 -->
 <g id="node6" class="node">
-<title>9633</title>
+<title>9643</title>
 <ellipse fill="none" stroke="black" cx="274.64" cy="-192" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="274.64" y="-188.3" font-family="Times,serif" font-size="14.00">copyleft&#45;next</text>
 </g>
-<!-- 9633&#45;&gt;1435 -->
+<!-- 9643&#45;&gt;1435 -->
 <g id="edge11" class="edge">
-<title>9633&#45;&gt;1435</title>
+<title>9643&#45;&gt;1435</title>
 <path fill="none" stroke="black" d="M243.81,-176.38C222.08,-166.19 192.23,-152.44 165.64,-141 153.5,-135.77 140.3,-130.34 127.95,-125.36"/>
 <polygon fill="black" stroke="black" points="129.34,-122.15 118.76,-121.68 126.74,-128.65 129.34,-122.15"/>
 <text text-anchor="middle" x="216.64" y="-144.8" font-family="Times,serif" font-size="14.00">Better</text>
 </g>
-<!-- 9633&#45;&gt;1438 -->
+<!-- 9643&#45;&gt;1438 -->
 <g id="edge12" class="edge">
-<title>9633&#45;&gt;1438</title>
+<title>9643&#45;&gt;1438</title>
 <path fill="none" stroke="black" d="M288.02,-174.15C296.99,-163.64 309.53,-150.38 322.64,-141 330.45,-135.41 339.3,-130.35 348.11,-125.93"/>
 <polygon fill="black" stroke="black" points="349.48,-129.16 357,-121.69 346.46,-122.84 349.48,-129.16"/>
 <text text-anchor="middle" x="339.64" y="-144.8" font-family="Times,serif" font-size="14.00">Better</text>
 </g>
-<!-- 9644&#45;&gt;9633 -->
+<!-- 9654&#45;&gt;9643 -->
 <g id="edge13" class="edge">
-<title>9644&#45;&gt;9633</title>
+<title>9654&#45;&gt;9643</title>
 <path fill="none" stroke="black" d="M274.64,-260.8C274.64,-249.58 274.64,-234.67 274.64,-221.69"/>
 <polygon fill="black" stroke="black" points="278.14,-221.98 274.64,-211.98 271.14,-221.98 278.14,-221.98"/>
 <text text-anchor="middle" x="303.64" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>copyleft-next</h3><div class="anchor" id="NodeIndex(9633)"></div><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] strong</h3><div class="anchor" id="NodeIndex(9644)"></div><p>strong</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Copyleft</h3><div class="anchor" id="NodeIndex(31)"></div><p>Copyleft</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div></div></div><h2>forward</h2><div class="tree"><h3>copyleft-next</h3><div class="anchor" id="NodeIndex(9633)"></div><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [Better]&rarr;</h3><div class="anchor" id="NodeIndex(1438)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [HintsTowards]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div><div class="tree"><h3>copyleft-next 0.3.1 [Same, Same]&rarr;</h3><div class="anchor" id="NodeIndex(1439)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [Same]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.1 [Same]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.0 [Better]&rarr;</h3><div class="anchor" id="NodeIndex(1435)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.0 [HintsTowards]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div><div class="tree"><h3>copyleft-next 0.3.0 [Same, Same]&rarr;</h3><div class="anchor" id="NodeIndex(1436)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.0 [Same]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.0 [Same]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div></div></div></div></div><h2>dot</h2><pre>digraph {
+</div><h2>backward</h2><div class="tree"><h3>copyleft-next</h3><div class="anchor" id="NodeIndex(9643)"></div><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] strong</h3><div class="anchor" id="NodeIndex(9654)"></div><p>strong</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Copyleft</h3><div class="anchor" id="NodeIndex(31)"></div><p>Copyleft</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div></div></div><h2>forward</h2><div class="tree"><h3>copyleft-next</h3><div class="anchor" id="NodeIndex(9643)"></div><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [Better]&rarr;</h3><div class="anchor" id="NodeIndex(1438)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [HintsTowards]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div><div class="tree"><h3>copyleft-next 0.3.1 [Same, Same]&rarr;</h3><div class="anchor" id="NodeIndex(1439)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.1 [Same]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.1 [Same]&rarr;</h3><a href="#NodeIndex(1438)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.0 [Better]&rarr;</h3><div class="anchor" id="NodeIndex(1435)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.0 [HintsTowards]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div><div class="tree"><h3>copyleft-next 0.3.0 [Same, Same]&rarr;</h3><div class="anchor" id="NodeIndex(1436)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>copyleft-next-0.3.0 [Same]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div></div></div><div class="tree"><h3>copyleft-next-0.3.0 [Same]&rarr;</h3><a href="#NodeIndex(1435)">&uarr;</a></div></div></div></div></div><h2>dot</h2><pre>digraph {
     31 [ label = "Copyleft" ]
     1435 [ label = "copyleft-next-0.3.0" ]
     1436 [ label = "copyleft-next 0.3.0" ]
     1438 [ label = "copyleft-next-0.3.1" ]
     1439 [ label = "copyleft-next 0.3.1" ]
-    9633 [ label = "copyleft-next" ]
-    9644 [ label = "strong" ]
+    9643 [ label = "copyleft-next" ]
+    9654 [ label = "strong" ]
     1436 -> 1435 [ label = "Same" ]
     1439 -> 1438 [ label = "Same" ]
     1435 -> 1435 [ label = "Same" ]
@@ -192,10 +192,10 @@
     31 -> 1438 [ label = "AppliesTo" ]
     1435 -> 1436 [ label = "Same" ]
     1438 -> 1439 [ label = "Same" ]
-    9633 -> 1435 [ label = "Better" ]
-    9633 -> 1438 [ label = "Better" ]
-    9644 -> 9633 [ label = "AppliesTo" ]
-    31 -> 9644 [ label = "AppliesTo" ]
+    9643 -> 1435 [ label = "Better" ]
+    9643 -> 1438 [ label = "Better" ]
+    9654 -> 9643 [ label = "AppliesTo" ]
+    31 -> 9654 [ label = "AppliesTo" ]
     1435 -> 1435 [ label = "HintsTowards" ]
     1438 -> 1438 [ label = "HintsTowards" ]
 }

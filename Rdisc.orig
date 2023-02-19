@@ -163,22 +163,22 @@
 <polygon fill="black" stroke="black" points="220.91,-221.26 216.37,-211.68 213.95,-221.99 220.91,-221.26"/>
 <text text-anchor="middle" x="249.4" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node10" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="804.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="804.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1217 -->
+<!-- 9894&#45;&gt;1217 -->
 <g id="edge13" class="edge">
-<title>9892&#45;&gt;1217</title>
+<title>9894&#45;&gt;1217</title>
 <path fill="none" stroke="black" d="M758.66,-179.59C750.28,-177.63 741.59,-175.69 733.4,-174 589.73,-144.42 417.02,-120.98 339.54,-111.09"/>
 <polygon fill="black" stroke="black" points="340.23,-107.65 329.87,-109.87 339.35,-114.6 340.23,-107.65"/>
 <text text-anchor="middle" x="667.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Rdisc</h3><div class="anchor" id="NodeIndex(1217)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Rdisc</h3><a href="#NodeIndex(1217)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Rdisc.html</h3><div class="anchor" id="NodeIndex(9833)"></div><p>https://spdx.org/licenses/Rdisc.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(7832)"></div><p>Per Fedora, this is a permissive style license from Sun, Free and GPL
+</div><h2>backward</h2><div class="tree"><h3>Rdisc</h3><div class="anchor" id="NodeIndex(1217)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Rdisc</h3><a href="#NodeIndex(1217)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Rdisc.html</h3><div class="anchor" id="NodeIndex(9833)"></div><p>https://spdx.org/licenses/Rdisc.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(7832)"></div><p>Per Fedora, this is a permissive style license from Sun, Free and GPL
 compatible.
 </p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(7831)"></div><pre>Rdisc (this program) was developed by Sun Microsystems, Inc. and is provided for unrestricted use provided that this legend is included on all tape media and as a part of the software program in whole or part. Users may copy or modify Rdisc without charge, and they may freely distribute it.
 
@@ -202,7 +202,7 @@ In no event will Sun Microsystems, Inc. be liable for any lost revenue or profit
     9833 [ label = "https://spdx.org/licenses/Rdisc.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1218 -> 1217 [ label = "Same" ]
     1219 -> 1217 [ label = "AppliesTo" ]
     1217 -> 1217 [ label = "Same" ]
@@ -215,7 +215,7 @@ In no event will Sun Microsystems, Inc. be liable for any lost revenue or profit
     9849 -> 1217 [ label = "AppliesTo" ]
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
-    9892 -> 1217 [ label = "AppliesTo" ]
+    9894 -> 1217 [ label = "AppliesTo" ]
     1217 -> 1217 [ label = "HintsTowards" ]
 }
 </pre></body></html>

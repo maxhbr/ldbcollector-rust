@@ -182,22 +182,22 @@
 <polygon fill="black" stroke="black" points="399.82,-115.88 389.23,-116.01 397.59,-122.52 399.82,-115.88"/>
 <text text-anchor="middle" x="532.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node12" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="723.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="723.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1175 -->
+<!-- 9894&#45;&gt;1175 -->
 <g id="edge14" class="edge">
-<title>9892&#45;&gt;1175</title>
+<title>9894&#45;&gt;1175</title>
 <path fill="none" stroke="black" d="M685.5,-177.38C653.75,-166.37 607.06,-151.08 565.4,-141 510.29,-127.67 445.68,-117.57 403.71,-111.72"/>
 <polygon fill="black" stroke="black" points="404.39,-108.28 394.01,-110.39 403.44,-115.22 404.39,-108.28"/>
 <text text-anchor="middle" x="646.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Plexus</h3><div class="anchor" id="NodeIndex(1175)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Plexus</h3><a href="#NodeIndex(1175)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9886)"></div><pre># SPDX-License-Identifier: CC-BY-SA-4.0
+</div><h2>backward</h2><div class="tree"><h3>Plexus</h3><div class="anchor" id="NodeIndex(1175)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Plexus</h3><a href="#NodeIndex(1175)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9886)"></div><pre># SPDX-License-Identifier: CC-BY-SA-4.0
 -
   name: Plexus Classworlds License
   licenseId: Plexus
@@ -270,7 +270,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</pre><h5>Origi
     9791 [ label = "Bronze" ]
     9792 [ label = "$NOTE" ]
     9886 [ label = "$RULE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1176 -> 1175 [ label = "Same" ]
     1177 -> 1175 [ label = "AppliesTo" ]
     3442 -> 1175 [ label = "Same" ]
@@ -284,7 +284,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</pre><h5>Origi
     1540 -> 9791 [ label = "AppliesTo" ]
     1176 -> 1175 [ label = "Same" ]
     9886 -> 1175 [ label = "AppliesTo" ]
-    9892 -> 1175 [ label = "AppliesTo" ]
+    9894 -> 1175 [ label = "AppliesTo" ]
     1175 -> 1175 [ label = "HintsTowards" ]
 }
 </pre></body></html>

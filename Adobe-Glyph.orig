@@ -103,22 +103,22 @@
 <polygon fill="black" stroke="black" points="410.33,-123.48 399.9,-121.57 406.86,-129.56 410.33,-123.48"/>
 <text text-anchor="middle" x="472.64" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node7" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="590.64" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="590.64" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;86 -->
+<!-- 9894&#45;&gt;86 -->
 <g id="edge7" class="edge">
-<title>9892&#45;&gt;86</title>
+<title>9894&#45;&gt;86</title>
 <path fill="none" stroke="black" d="M567.4,-174.89C550.82,-164.01 527.65,-150.05 505.64,-141 481.16,-130.93 453.01,-123.17 428.54,-117.53"/>
 <polygon fill="black" stroke="black" points="429.59,-114.18 419.07,-115.42 428.07,-121.01 429.59,-114.18"/>
 <text text-anchor="middle" x="563.64" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Adobe-Glyph</h3><div class="anchor" id="NodeIndex(86)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Adobe-Glyph</h3><a href="#NodeIndex(86)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(1694)"></div><pre>Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation, and to permit others to do the same, provided that: 
+</div><h2>backward</h2><div class="tree"><h3>Adobe-Glyph</h3><div class="anchor" id="NodeIndex(86)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Adobe-Glyph</h3><a href="#NodeIndex(86)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(1694)"></div><pre>Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation, and to permit others to do the same, provided that: 
      - No modification, editing or other alteration of this document is allowed; and 
      - The above copyright notice and this permission notice shall be included in all copies of the documentation. 
 
@@ -135,14 +135,14 @@ Adobe shall not be liable to any party for any loss of revenue or profit or for 
     1540 [ label = "Permissive" ]
     1693 [ label = "Adobe Glyph License" ]
     1694 [ label = "$TEXT" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     87 -> 86 [ label = "Same" ]
     88 -> 86 [ label = "AppliesTo" ]
     86 -> 86 [ label = "Same" ]
     86 -> 1693 [ label = "Same" ]
     1540 -> 86 [ label = "AppliesTo" ]
     1694 -> 86 [ label = "AppliesTo" ]
-    9892 -> 86 [ label = "AppliesTo" ]
+    9894 -> 86 [ label = "AppliesTo" ]
     86 -> 86 [ label = "HintsTowards" ]
 }
 </pre></body></html>

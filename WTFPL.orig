@@ -215,15 +215,15 @@
 <polygon fill="black" stroke="black" points="361.88,-216.9 353.6,-210.3 355.95,-220.63 361.88,-216.9"/>
 <text text-anchor="middle" x="402.7" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9895 -->
+<!-- 9896 -->
 <g id="node13" class="node">
-<title>9895</title>
+<title>9896</title>
 <ellipse fill="none" stroke="black" cx="844.7" cy="-192" rx="49.29" ry="18"/>
 <text text-anchor="middle" x="844.7" y="-188.3" font-family="Times,serif" font-size="14.00">permissive</text>
 </g>
-<!-- 9895&#45;&gt;1366 -->
+<!-- 9896&#45;&gt;1366 -->
 <g id="edge14" class="edge">
-<title>9895&#45;&gt;1366</title>
+<title>9896&#45;&gt;1366</title>
 <path fill="none" stroke="black" d="M808.02,-179.66C800.98,-177.65 793.63,-175.67 786.7,-174 676.57,-147.5 545.42,-124.88 476.14,-113.63"/>
 <polygon fill="black" stroke="black" points="477.09,-110.23 466.66,-112.1 475.97,-117.15 477.09,-110.23"/>
 <text text-anchor="middle" x="726.7" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -243,7 +243,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>WTFPL</h3><div class="anchor" id="NodeIndex(1366)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] WTFPL</h3><a href="#NodeIndex(1366)">&uarr;</a></div><div class="tree"><h3>&larr;[HintsTowards] SUSE-WTFPL-2.0</h3><div class="anchor" id="NodeIndex(10519)"></div><h5>Origins:</h5><ul><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] permissive</h3><div class="anchor" id="NodeIndex(9895)"></div><p>permissive</p><h5>Origins:</h5><ul><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><a href="#NodeIndex(1540)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/WTFPL.html</h3><div class="anchor" id="NodeIndex(9844)"></div><p>https://spdx.org/licenses/WTFPL.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9492)"></div><pre>USE CASE Source code delivery OR Binary delivery
+</div><h2>backward</h2><div class="tree"><h3>WTFPL</h3><div class="anchor" id="NodeIndex(1366)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] WTFPL</h3><a href="#NodeIndex(1366)">&uarr;</a></div><div class="tree"><h3>&larr;[HintsTowards] SUSE-WTFPL-2.0</h3><div class="anchor" id="NodeIndex(10519)"></div><h5>Origins:</h5><ul><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] permissive</h3><div class="anchor" id="NodeIndex(9896)"></div><p>permissive</p><h5>Origins:</h5><ul><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><a href="#NodeIndex(1540)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/WTFPL.html</h3><div class="anchor" id="NodeIndex(9844)"></div><p>https://spdx.org/licenses/WTFPL.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9492)"></div><pre>USE CASE Source code delivery OR Binary delivery
 </pre><h5>Origins:</h5><ul><li><a href="https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html">OSADL</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] wtfpl-2.0</h3><div class="anchor" id="NodeIndex(9209)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(9210)"></div><pre>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
@@ -273,7 +273,7 @@
     9844 [ label = "https://spdx.org/licenses/WTFPL.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9895 [ label = "permissive" ]
+    9896 [ label = "permissive" ]
     10519 [ label = "SUSE-WTFPL-2.0" ]
     10990 [ label = "WTF Public License 2.0" ]
     1367 -> 1366 [ label = "Same" ]
@@ -289,7 +289,7 @@
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
     1540 -> 1366 [ label = "AppliesTo" ]
-    9895 -> 1366 [ label = "AppliesTo" ]
+    9896 -> 1366 [ label = "AppliesTo" ]
     10519 -> 1366 [ label = "HintsTowards" ]
     1366 -> 1366 [ label = "HintsTowards" ]
     9209 -> 10990 [ label = "Same" ]

@@ -183,15 +183,15 @@
 <polygon fill="black" stroke="black" points="827.74,-221.98 824.24,-211.98 820.74,-221.98 827.74,-221.98"/>
 <text text-anchor="middle" x="853.24" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node11" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="940.24" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="940.24" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;939 -->
+<!-- 9894&#45;&gt;939 -->
 <g id="edge15" class="edge">
-<title>9892&#45;&gt;939</title>
+<title>9894&#45;&gt;939</title>
 <path fill="none" stroke="black" d="M902.42,-177.41C869.88,-166.19 821.49,-150.6 778.24,-141 708.16,-125.45 625.54,-115.57 574.27,-110.41"/>
 <polygon fill="black" stroke="black" points="574.68,-106.93 564.38,-109.43 573.99,-113.9 574.68,-106.93"/>
 <text text-anchor="middle" x="861.24" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -218,7 +218,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Multics</h3><div class="anchor" id="NodeIndex(939)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Multics</h3><a href="#NodeIndex(939)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/Multics</h3><div class="anchor" id="NodeIndex(9998)"></div><p>https://opensource.org/licenses/Multics</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Multics.html</h3><div class="anchor" id="NodeIndex(9746)"></div><p>https://spdx.org/licenses/Multics.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(1614)"></div><p>Per SPDX.org, this license is OSI certified.</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] is_osi_approved</h3><div class="anchor" id="NodeIndex(3)"></div><p>is_osi_approved</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(6513)"></div><pre>Permission to use, copy, modify, and distribute these programs and their
+</div><h2>backward</h2><div class="tree"><h3>Multics</h3><div class="anchor" id="NodeIndex(939)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Multics</h3><a href="#NodeIndex(939)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/Multics</h3><div class="anchor" id="NodeIndex(9998)"></div><p>https://opensource.org/licenses/Multics</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Multics.html</h3><div class="anchor" id="NodeIndex(9746)"></div><p>https://spdx.org/licenses/Multics.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(1614)"></div><p>Per SPDX.org, this license is OSI certified.</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] is_osi_approved</h3><div class="anchor" id="NodeIndex(3)"></div><p>is_osi_approved</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(6513)"></div><pre>Permission to use, copy, modify, and distribute these programs and their
 documentation for any purpose and without fee is hereby granted,provided
 that the below copyright notice and historical background appear in all
 copies and that both the copyright notice and historical background and
@@ -245,7 +245,7 @@ All Rights Reserved</pre><h5>Origins:</h5><ul><li><a href="https://scancode-lice
     9746 [ label = "https://spdx.org/licenses/Multics.html" ]
     9791 [ label = "Bronze" ]
     9792 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     9998 [ label = "https://opensource.org/licenses/Multics" ]
     940 -> 939 [ label = "Same" ]
     941 -> 939 [ label = "AppliesTo" ]
@@ -261,7 +261,7 @@ All Rights Reserved</pre><h5>Origins:</h5><ul><li><a href="https://scancode-lice
     9791 -> 939 [ label = "AppliesTo" ]
     9792 -> 9791 [ label = "AppliesTo" ]
     1540 -> 9791 [ label = "AppliesTo" ]
-    9892 -> 939 [ label = "AppliesTo" ]
+    9894 -> 939 [ label = "AppliesTo" ]
     9998 -> 939 [ label = "AppliesTo" ]
     9998 -> 940 [ label = "AppliesTo" ]
     939 -> 939 [ label = "HintsTowards" ]

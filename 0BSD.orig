@@ -202,22 +202,22 @@
 <polygon fill="black" stroke="black" points="443.59,-110.85 433.08,-112.14 442.11,-117.69 443.59,-110.85"/>
 <text text-anchor="middle" x="589.95" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node13" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="736.95" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="736.95" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;0 -->
+<!-- 9894&#45;&gt;0 -->
 <g id="edge16" class="edge">
-<title>9892&#45;&gt;0</title>
+<title>9894&#45;&gt;0</title>
 <path fill="none" stroke="black" d="M707.73,-175.68C685.15,-164.47 652.81,-149.75 622.95,-141 562.32,-123.25 489.58,-113.95 444.3,-109.51"/>
 <polygon fill="black" stroke="black" points="444.92,-106.06 434.63,-108.61 444.26,-113.03 444.92,-106.06"/>
 <text text-anchor="middle" x="689.95" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>0BSD</h3><div class="anchor" id="NodeIndex(0)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] 0BSD</h3><a href="#NodeIndex(0)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9851)"></div><pre># SPDX-License-Identifier: CC-BY-SA-4.0
+</div><h2>backward</h2><div class="tree"><h3>0BSD</h3><div class="anchor" id="NodeIndex(0)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] 0BSD</h3><a href="#NodeIndex(0)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9851)"></div><pre># SPDX-License-Identifier: CC-BY-SA-4.0
 -
   name: BSD Zero Clause License
   licenseId: 0BSD
@@ -253,7 +253,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Origins:
     9791 [ label = "Bronze" ]
     9792 [ label = "$NOTE" ]
     9851 [ label = "$RULE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1 -> 0 [ label = "Same" ]
     2 -> 0 [ label = "AppliesTo" ]
     3 -> 2 [ label = "AppliesTo" ]
@@ -269,7 +269,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Origins:
     1540 -> 9791 [ label = "AppliesTo" ]
     1 -> 0 [ label = "Same" ]
     9851 -> 0 [ label = "AppliesTo" ]
-    9892 -> 0 [ label = "AppliesTo" ]
+    9894 -> 0 [ label = "AppliesTo" ]
     0 -> 0 [ label = "HintsTowards" ]
 }
 </pre></body></html>

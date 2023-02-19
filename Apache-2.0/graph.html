@@ -1,0 +1,141 @@
+
+<head>
+  <style> body { margin: 0; } </style>
+  <script src="https://unpkg.com/force-graph"></script>
+</head>
+
+<body>
+  <div id="graph"></div>
+
+  <script>
+
+    const gData = 
+{"nodes":[{"id":"id_NodeIndex(3)","name":"is_osi_approved"},{"id":"id_NodeIndex(1510)","name":"apache-2"},{"id":"id_NodeIndex(10102)","name":"ASLv.."},{"id":"id_NodeIndex(1512)","name":"apache"},{"id":"id_NodeIndex(1513)","name":"asl2.0"},{"id":"id_NodeIndex(10111)","name":"Apache v2.0"},{"id":"id_NodeIndex(10109)","name":"Apache Software License .."},{"id":"id_NodeIndex(10106)","name":"Apache License Version 2.0"},{"id":"id_NodeIndex(102)","name":"Apache License 2.0"},{"id":"id_NodeIndex(13)","name":"is_fsf_free_libre"},{"id":"id_NodeIndex(10107)","name":"Apache License, Version 2.0"},{"id":"id_NodeIndex(9913)","name":"https://opensource.org/licenses/Apache-2.0"},{"id":"id_NodeIndex(103)","name":"$JSON"},{"id":"id_NodeIndex(10105)","name":"Apache License"},{"id":"id_NodeIndex(1509)","name":"apache 2.0"},{"id":"id_NodeIndex(9686)","name":"$NOTE"},{"id":"id_NodeIndex(10104)","name":"ASLv2.0"},{"id":"id_NodeIndex(9855)","name":"Apache Software License 2.0"},{"id":"id_NodeIndex(1924)","name":"$NOTE"},{"id":"id_NodeIndex(101)","name":"Apache-2.0"},{"id":"id_NodeIndex(9856)","name":"$RULE"},{"id":"id_NodeIndex(1511)","name":"apache2"},{"id":"id_NodeIndex(1923)","name":"$TEXT"},{"id":"id_NodeIndex(10108)","name":"Apache Software License"},{"id":"id_NodeIndex(10110)","name":"Apache Software License, Version 2.0"},{"id":"id_NodeIndex(10103)","name":"ASLv2"},{"id":"id_NodeIndex(10112)","name":"The Apache Software License"},{"id":"id_NodeIndex(9896)","name":"permissive"},{"id":"id_NodeIndex(10100)","name":"ASL 2.0"},{"id":"id_NodeIndex(9499)","name":"$RULE"},{"id":"id_NodeIndex(10101)","name":"ASL2"},{"id":"id_NodeIndex(9914)","name":"apache2.0"},{"id":"id_NodeIndex(1540)","name":"Permissive"},{"id":"id_NodeIndex(9662)","name":"https://spdx.org/licenses/Apache-2.0.html"},{"id":"id_NodeIndex(9685)","name":"Silver"}],"links":[{"source":"id_NodeIndex(102)","target":"id_NodeIndex(101)","name":"Same"},{"source":"id_NodeIndex(103)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(13)","target":"id_NodeIndex(103)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(103)","name":"AppliesTo"},{"source":"id_NodeIndex(1509)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(1510)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(1511)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(1512)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(1513)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(101)","target":"id_NodeIndex(101)","name":"Same"},{"source":"id_NodeIndex(101)","target":"id_NodeIndex(1509)","name":"Same"},{"source":"id_NodeIndex(101)","target":"id_NodeIndex(102)","name":"Same"},{"source":"id_NodeIndex(1540)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(1923)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(3)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(1924)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9499)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(101)","target":"id_NodeIndex(102)","name":"Same"},{"source":"id_NodeIndex(9662)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9685)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9686)","target":"id_NodeIndex(9685)","name":"AppliesTo"},{"source":"id_NodeIndex(1540)","target":"id_NodeIndex(9685)","name":"AppliesTo"},{"source":"id_NodeIndex(9855)","target":"id_NodeIndex(101)","name":"Same"},{"source":"id_NodeIndex(9856)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(1540)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9896)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9913)","target":"id_NodeIndex(101)","name":"AppliesTo"},{"source":"id_NodeIndex(9913)","target":"id_NodeIndex(9855)","name":"AppliesTo"},{"source":"id_NodeIndex(9914)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(9914)","target":"id_NodeIndex(9855)","name":"HintsTowards"},{"source":"id_NodeIndex(10100)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10101)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10102)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10103)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10104)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(1509)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10105)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(102)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10106)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10107)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10108)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10109)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10110)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10111)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(101)","target":"id_NodeIndex(101)","name":"HintsTowards"},{"source":"id_NodeIndex(10112)","target":"id_NodeIndex(101)","name":"HintsTowards"}]}
+;
+
+let selfLoopLinks = {};
+let sameNodesLinks = {};
+const curvatureMinMax = 0.2;
+
+// 1. assign each link a nodePairId that combines their source and target independent of the links direction
+// 2. group links together that share the same two nodes or are self-loops
+gData.links.forEach(link => {
+  link.nodePairId = link.source <= link.target ? (link.source + "_" + link.target) : (link.target + "_" + link.source);
+  let map = link.source === link.target ? selfLoopLinks : sameNodesLinks;
+  if (!map[link.nodePairId]) {
+    map[link.nodePairId] = [];
+  }
+  map[link.nodePairId].push(link);
+});
+
+// Compute the curvature for self-loop links to avoid overlaps
+Object.keys(selfLoopLinks).forEach(id => {
+  let links = selfLoopLinks[id];
+  let lastIndex = links.length - 1;
+  links[lastIndex].curvature = 1;
+  let delta = (1 - curvatureMinMax) / lastIndex;
+  for (let i = 0; i < lastIndex; i++) {
+    links[i].curvature = curvatureMinMax + i * delta;
+  }
+});
+
+// Compute the curvature for links sharing the same two nodes to avoid overlaps
+Object.keys(sameNodesLinks).filter(nodePairId => sameNodesLinks[nodePairId].length > 1).forEach(nodePairId => {
+  let links = sameNodesLinks[nodePairId];
+  let lastIndex = links.length - 1;
+  let lastLink = links[lastIndex];
+  lastLink.curvature = curvatureMinMax;
+  let delta = 2 * curvatureMinMax / lastIndex;
+  for (let i = 0; i < lastIndex; i++) {
+    links[i].curvature = - curvatureMinMax + i * delta;
+    if (lastLink.source !== links[i].source) {
+      links[i].curvature *= -1; // flip it around, otherwise they overlap
+    }
+  }
+});
+
+const Graph = ForceGraph()
+  (document.getElementById('graph'))
+    .nodeAutoColorBy('type')
+    .linkAutoColorBy('label')
+    //.dagMode('lr').dagLevelDistance(300)
+    //.d3Force('collide', d3.forceCollide(13)).d3AlphaDecay(0.02).d3VelocityDecay(0.3)
+    .linkCurvature('curvature')
+    .linkDirectionalArrowRelPos(1)
+    .linkDirectionalArrowLength(6)
+  .nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.name;
+    const fontSize = 12/globalScale;
+    ctx.font = `${fontSize}px Sans-Serif`;
+    const textWidth = ctx.measureText(label).width;
+    const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+    ctx.fillRect(node.x - bckgDimensions[0] / 2, node.y - bckgDimensions[1] / 2, ...bckgDimensions);
+
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = node.color;
+    ctx.fillText(label, node.x, node.y);
+
+    node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
+  })
+  .nodePointerAreaPaint((node, color, ctx) => {
+    ctx.fillStyle = color;
+    const bckgDimensions = node.__bckgDimensions;
+    bckgDimensions && ctx.fillRect(node.x - bckgDimensions[0] / 2, node.y - bckgDimensions[1] / 2, ...bckgDimensions);
+  })
+  .linkCanvasObjectMode(() => 'after')
+  .linkCanvasObject((link, ctx) => {
+    const MAX_FONT_SIZE = 4;
+    const LABEL_NODE_MARGIN = Graph.nodeRelSize() * 1.5;
+
+    const start = link.source;
+    const end = link.target;
+
+    // ignore unbound links
+    if (typeof start !== 'object' || typeof end !== 'object') return;
+
+    // calculate label positioning
+    const textPos = Object.assign(...['x', 'y'].map(c => ({
+      [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+    })));
+
+    const relLink = { x: end.x - start.x, y: end.y - start.y };
+
+    const maxTextLength = Math.sqrt(Math.pow(relLink.x, 2) + Math.pow(relLink.y, 2)) - LABEL_NODE_MARGIN * 2;
+
+    let textAngle = Math.atan2(relLink.y, relLink.x);
+    // maintain label vertical orientation for legibility
+    if (textAngle > Math.PI / 2) textAngle = -(Math.PI - textAngle);
+    if (textAngle < -Math.PI / 2) textAngle = -(-Math.PI - textAngle);
+
+    const label = `${link.name}`;
+
+    // estimate fontSize to fit in link length
+    ctx.font = '1px Sans-Serif';
+    const fontSize = Math.min(MAX_FONT_SIZE, maxTextLength / ctx.measureText(label).width);
+    ctx.font = `${fontSize}px Sans-Serif`;
+    const textWidth = ctx.measureText(label).width;
+    const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+
+    // draw text label (with background rect)
+    ctx.save();
+    ctx.translate(textPos.x, textPos.y);
+    ctx.rotate(textAngle);
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+    ctx.fillRect(- bckgDimensions[0] / 2, - bckgDimensions[1] / 2, ...bckgDimensions);
+
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = 'darkgrey';
+    ctx.fillText(label, 0, 0);
+    ctx.restore();
+  })
+    .graphData(gData);
+  // Spread nodes a little wider
+  Graph.d3Force('charge').strength(-120);
+
+</script>
+</body>

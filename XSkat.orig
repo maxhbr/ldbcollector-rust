@@ -110,22 +110,22 @@
 <polygon fill="black" stroke="black" points="283.6,-119.08 273.12,-117.51 280.34,-125.27 283.6,-119.08"/>
 <text text-anchor="middle" x="349.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node7" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="458.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="458.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1384 -->
+<!-- 9894&#45;&gt;1384 -->
 <g id="edge8" class="edge">
-<title>9892&#45;&gt;1384</title>
+<title>9894&#45;&gt;1384</title>
 <path fill="none" stroke="black" d="M437.86,-174.79C423.15,-163.87 402.47,-149.89 382.4,-141 352.26,-127.65 316.03,-118.64 288.54,-113.11"/>
 <polygon fill="black" stroke="black" points="289.31,-109.69 278.82,-111.24 287.98,-116.57 289.31,-109.69"/>
 <text text-anchor="middle" x="437.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>XSkat</h3><div class="anchor" id="NodeIndex(1384)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] XSkat</h3><a href="#NodeIndex(1384)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9381)"></div><p>Per Fedora, this license is Free only when clause 2.b is used. It is always
+</div><h2>backward</h2><div class="tree"><h3>XSkat</h3><div class="anchor" id="NodeIndex(1384)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] XSkat</h3><a href="#NodeIndex(1384)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9381)"></div><p>Per Fedora, this license is Free only when clause 2.b is used. It is always
 GPL-incompatible. Packagers using code under this license in Fedora should
 note that while the RPM changelog is sufficient to meet one requirement of
 clause 2.b (to "clearly state who last changed the program"), the Release
@@ -159,7 +159,7 @@ original program and z is an arbitrary suffix.</pre><h5>Origins:</h5><ul><li><a 
     1540 [ label = "Permissive" ]
     9380 [ label = "$TEXT" ]
     9381 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1385 -> 1384 [ label = "Same" ]
     1386 -> 1384 [ label = "AppliesTo" ]
     1384 -> 1384 [ label = "Same" ]
@@ -167,7 +167,7 @@ original program and z is an arbitrary suffix.</pre><h5>Origins:</h5><ul><li><a 
     1540 -> 1384 [ label = "AppliesTo" ]
     9380 -> 1384 [ label = "AppliesTo" ]
     9381 -> 1384 [ label = "AppliesTo" ]
-    9892 -> 1384 [ label = "AppliesTo" ]
+    9894 -> 1384 [ label = "AppliesTo" ]
     1384 -> 1384 [ label = "HintsTowards" ]
 }
 </pre></body></html>

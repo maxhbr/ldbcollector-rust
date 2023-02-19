@@ -76,15 +76,15 @@
 <polygon fill="black" stroke="black" points="1523.63,-243.07 1520.66,-232.9 1516.64,-242.7 1523.63,-243.07"/>
 <text text-anchor="middle" x="1554.49" y="-252.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9629 -->
+<!-- 9609 -->
 <g id="node12" class="node">
-<title>9629</title>
+<title>9609</title>
 <ellipse fill="none" stroke="black" cx="1598.49" cy="-159" rx="29.5" ry="18"/>
 <text text-anchor="middle" x="1598.49" y="-155.3" font-family="Times,serif" font-size="14.00">weak</text>
 </g>
-<!-- 31&#45;&gt;9629 -->
+<!-- 31&#45;&gt;9609 -->
 <g id="edge17" class="edge">
-<title>31&#45;&gt;9629</title>
+<title>31&#45;&gt;9609</title>
 <path fill="none" stroke="black" d="M1589.73,-281.68C1591.41,-258.35 1594.42,-216.53 1596.43,-188.53"/>
 <polygon fill="black" stroke="black" points="1599.92,-188.84 1597.15,-178.61 1592.94,-188.34 1599.92,-188.84"/>
 <text text-anchor="middle" x="1620.49" y="-252.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -196,48 +196,48 @@
 <polygon fill="black" stroke="black" points="773.99,-129.55 765.44,-123.29 768.22,-133.52 773.99,-129.55"/>
 <text text-anchor="middle" x="819.49" y="-155.3" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9627 -->
+<!-- 9607 -->
 <g id="node11" class="node">
-<title>9627</title>
+<title>9607</title>
 <ellipse fill="none" stroke="black" cx="999.49" cy="-213" rx="144.87" ry="18"/>
 <text text-anchor="middle" x="999.49" y="-209.3" font-family="Times,serif" font-size="14.00">https://spdx.org/licenses/MS&#45;RL.html</text>
 </g>
-<!-- 9627&#45;&gt;915 -->
+<!-- 9607&#45;&gt;915 -->
 <g id="edge14" class="edge">
-<title>9627&#45;&gt;915</title>
+<title>9607&#45;&gt;915</title>
 <path fill="none" stroke="black" d="M967.29,-195.1C937.83,-179.97 892.83,-157.67 852.49,-141 833.45,-133.14 811.94,-125.51 793.68,-119.4"/>
 <polygon fill="black" stroke="black" points="794.81,-116.09 784.22,-116.28 792.61,-122.74 794.81,-116.09"/>
 <text text-anchor="middle" x="957.49" y="-155.3" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9629&#45;&gt;916 -->
+<!-- 9609&#45;&gt;916 -->
 <g id="edge16" class="edge">
-<title>9629&#45;&gt;916</title>
+<title>9609&#45;&gt;916</title>
 <path fill="none" stroke="black" d="M1571.5,-151.43C1557.27,-148.08 1539.48,-144.07 1523.49,-141 1281.44,-94.5 994.21,-52.56 847.78,-32.13"/>
 <polygon fill="black" stroke="black" points="848.51,-28.7 838.13,-30.78 847.55,-35.63 848.51,-28.7"/>
 <text text-anchor="middle" x="1447.49" y="-101.3" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9890 -->
+<!-- 9892 -->
 <g id="node13" class="node">
-<title>9890</title>
+<title>9892</title>
 <ellipse fill="none" stroke="black" cx="1241.49" cy="-213" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="1241.49" y="-209.3" font-family="Times,serif" font-size="14.00">Strongly Protective</text>
 </g>
-<!-- 9890&#45;&gt;915 -->
+<!-- 9892&#45;&gt;915 -->
 <g id="edge18" class="edge">
-<title>9890&#45;&gt;915</title>
+<title>9892&#45;&gt;915</title>
 <path fill="none" stroke="black" d="M1197.49,-197.67C1147.72,-181.9 1064,-156.71 990.49,-141 925.13,-127.03 848.53,-116.89 800.01,-111.23"/>
 <polygon fill="black" stroke="black" points="800.44,-107.75 790.11,-110.09 799.64,-114.71 800.44,-107.75"/>
 <text text-anchor="middle" x="1156.49" y="-155.3" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9898 -->
+<!-- 9899 -->
 <g id="node14" class="node">
-<title>9898</title>
+<title>9899</title>
 <ellipse fill="none" stroke="black" cx="1404.49" cy="-213" rx="65.79" ry="18"/>
 <text text-anchor="middle" x="1404.49" y="-209.3" font-family="Times,serif" font-size="14.00">strong_copyleft</text>
 </g>
-<!-- 9898&#45;&gt;915 -->
+<!-- 9899&#45;&gt;915 -->
 <g id="edge19" class="edge">
-<title>9898&#45;&gt;915</title>
+<title>9899&#45;&gt;915</title>
 <path fill="none" stroke="black" d="M1369.06,-197.38C1327.01,-180.73 1254.41,-154.12 1189.49,-141 1050.87,-113 883.33,-107.2 801.44,-106.13"/>
 <polygon fill="black" stroke="black" points="801.55,-102.63 791.51,-106.02 801.47,-109.63 801.55,-102.63"/>
 <text text-anchor="middle" x="1341.49" y="-155.3" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -264,7 +264,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>MS-RL</h3><div class="anchor" id="NodeIndex(915)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] MS-RL</h3><a href="#NodeIndex(915)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/MS-RL</h3><div class="anchor" id="NodeIndex(9994)"></div><p>https://opensource.org/licenses/MS-RL</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] strong_copyleft</h3><div class="anchor" id="NodeIndex(9898)"></div><p>strong_copyleft</p><h5>Origins:</h5><ul><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Strongly Protective</h3><div class="anchor" id="NodeIndex(9890)"></div><p>Strongly Protective</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Better] Microsoft Reciprocal License</h3><div class="anchor" id="NodeIndex(916)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/MS-RL</h3><a href="#NodeIndex(9994)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] weak</h3><div class="anchor" id="NodeIndex(9629)"></div><p>weak</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Copyleft</h3><div class="anchor" id="NodeIndex(31)"></div><p>Copyleft</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[Same, Same] MS-RL</h3><a href="#NodeIndex(915)">&uarr;</a></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/MS-RL.html</h3><div class="anchor" id="NodeIndex(9627)"></div><p>https://spdx.org/licenses/MS-RL.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9547)"></div><pre>USE CASE Source code delivery
+</div><h2>backward</h2><div class="tree"><h3>MS-RL</h3><div class="anchor" id="NodeIndex(915)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] MS-RL</h3><a href="#NodeIndex(915)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/MS-RL</h3><div class="anchor" id="NodeIndex(9994)"></div><p>https://opensource.org/licenses/MS-RL</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] strong_copyleft</h3><div class="anchor" id="NodeIndex(9899)"></div><p>strong_copyleft</p><h5>Origins:</h5><ul><li><a href="https://github.com/librariesio/license-compatibility">librariesio License::Compatibility</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Strongly Protective</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Strongly Protective</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Better] Microsoft Reciprocal License</h3><div class="anchor" id="NodeIndex(916)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/MS-RL</h3><a href="#NodeIndex(9994)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] weak</h3><div class="anchor" id="NodeIndex(9609)"></div><p>weak</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Copyleft</h3><div class="anchor" id="NodeIndex(31)"></div><p>Copyleft</p><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[Same, Same] MS-RL</h3><a href="#NodeIndex(915)">&uarr;</a></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/MS-RL.html</h3><div class="anchor" id="NodeIndex(9607)"></div><p>https://spdx.org/licenses/MS-RL.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9547)"></div><pre>USE CASE Source code delivery
 	YOU MUST Forward Copyright notices
 	YOU MUST Forward Patent notices
 	YOU MUST Forward Trademark notices
@@ -341,10 +341,10 @@ This license governs use of the accompanying software. If you use the software, 
     1614 [ label = "$NOTE" ]
     6301 [ label = "$TEXT" ]
     9547 [ label = "$RULE" ]
-    9627 [ label = "https://spdx.org/licenses/MS-RL.html" ]
-    9629 [ label = "weak" ]
-    9890 [ label = "Strongly Protective" ]
-    9898 [ label = "strong_copyleft" ]
+    9607 [ label = "https://spdx.org/licenses/MS-RL.html" ]
+    9609 [ label = "weak" ]
+    9892 [ label = "Strongly Protective" ]
+    9899 [ label = "strong_copyleft" ]
     9994 [ label = "https://opensource.org/licenses/MS-RL" ]
     916 -> 915 [ label = "Same" ]
     917 -> 915 [ label = "AppliesTo" ]
@@ -359,12 +359,12 @@ This license governs use of the accompanying software. If you use the software, 
     1614 -> 915 [ label = "AppliesTo" ]
     9547 -> 915 [ label = "AppliesTo" ]
     915 -> 916 [ label = "Same" ]
-    9627 -> 915 [ label = "AppliesTo" ]
+    9607 -> 915 [ label = "AppliesTo" ]
     916 -> 915 [ label = "Better" ]
-    9629 -> 916 [ label = "AppliesTo" ]
-    31 -> 9629 [ label = "AppliesTo" ]
-    9890 -> 915 [ label = "AppliesTo" ]
-    9898 -> 915 [ label = "AppliesTo" ]
+    9609 -> 916 [ label = "AppliesTo" ]
+    31 -> 9609 [ label = "AppliesTo" ]
+    9892 -> 915 [ label = "AppliesTo" ]
+    9899 -> 915 [ label = "AppliesTo" ]
     9994 -> 915 [ label = "AppliesTo" ]
     9994 -> 916 [ label = "AppliesTo" ]
     915 -> 915 [ label = "HintsTowards" ]

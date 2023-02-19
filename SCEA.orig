@@ -96,22 +96,22 @@
 <polygon fill="black" stroke="black" points="408.45,-128.33 399.27,-123.03 403.14,-132.89 408.45,-128.33"/>
 <text text-anchor="middle" x="449.34" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node7" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="502.34" cy="-105" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="502.34" y="-101.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1226 -->
+<!-- 9894&#45;&gt;1226 -->
 <g id="edge6" class="edge">
-<title>9892&#45;&gt;1226</title>
+<title>9894&#45;&gt;1226</title>
 <path fill="none" stroke="black" d="M472.16,-89C442.27,-74.14 396.57,-51.42 365.39,-35.93"/>
 <polygon fill="black" stroke="black" points="367.29,-32.96 356.78,-31.64 364.17,-39.23 367.29,-32.96"/>
 <text text-anchor="middle" x="455.34" y="-57.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>SCEA</h3><div class="anchor" id="NodeIndex(1226)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] SCEA</h3><a href="#NodeIndex(1226)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] scea-1.0</h3><div class="anchor" id="NodeIndex(8031)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(8032)"></div><pre>SCEA Shared Source License 1.0
+</div><h2>backward</h2><div class="tree"><h3>SCEA</h3><div class="anchor" id="NodeIndex(1226)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] SCEA</h3><a href="#NodeIndex(1226)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] scea-1.0</h3><div class="anchor" id="NodeIndex(8031)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(8032)"></div><pre>SCEA Shared Source License 1.0
 
 Terms and Conditions:
 
@@ -181,13 +181,13 @@ Unless required by applicable law or agreed to in writing, software distributed 
     1540 [ label = "Permissive" ]
     8031 [ label = "scea-1.0" ]
     8032 [ label = "$TEXT" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     1227 -> 1226 [ label = "Same" ]
     1228 -> 1226 [ label = "AppliesTo" ]
     8031 -> 1226 [ label = "Same" ]
     1540 -> 8031 [ label = "AppliesTo" ]
     8032 -> 8031 [ label = "AppliesTo" ]
-    9892 -> 1226 [ label = "AppliesTo" ]
+    9894 -> 1226 [ label = "AppliesTo" ]
     1226 -> 1226 [ label = "HintsTowards" ]
 }
 </pre></body></html>

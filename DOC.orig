@@ -149,22 +149,22 @@
 <polygon fill="black" stroke="black" points="88.29,-211.72 95.74,-204.19 85.22,-205.43 88.29,-211.72"/>
 <text text-anchor="middle" x="81.4" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node10" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="608.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="608.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;482 -->
+<!-- 9894&#45;&gt;482 -->
 <g id="edge11" class="edge">
-<title>9892&#45;&gt;482</title>
+<title>9894&#45;&gt;482</title>
 <path fill="none" stroke="black" d="M562.24,-179.7C553.98,-177.75 545.44,-175.78 537.4,-174 430.7,-150.4 304.18,-125.57 241.55,-113.49"/>
 <polygon fill="black" stroke="black" points="242.23,-110.06 231.75,-111.6 240.9,-116.93 242.23,-110.06"/>
 <text text-anchor="middle" x="474.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>DOC</h3><div class="anchor" id="NodeIndex(482)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] DOC</h3><a href="#NodeIndex(482)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/DOC.html</h3><div class="anchor" id="NodeIndex(9808)"></div><p>https://spdx.org/licenses/DOC.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] ace-tao</h3><div class="anchor" id="NodeIndex(1582)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(1583)"></div><pre>Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), and CoSMIC(TM)
+</div><h2>backward</h2><div class="tree"><h3>DOC</h3><div class="anchor" id="NodeIndex(482)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] DOC</h3><a href="#NodeIndex(482)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/DOC.html</h3><div class="anchor" id="NodeIndex(9808)"></div><p>https://spdx.org/licenses/DOC.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] ace-tao</h3><div class="anchor" id="NodeIndex(1582)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(1583)"></div><pre>Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), and CoSMIC(TM)
 
 ACE(TM),TAO(TM),CIAO(TM),andCoSMIC(TM) (henceforth referred to as "DOC software") are copyrighted by Douglas C. Schmidt and his research group at Washington University, University of California, Irvine, and Vanderbilt University, Copyright (c) 1993-2009, all rights reserved. Since DOC software is open-source, freely available software, you are free to use, modify, copy, and distribute--perpetually and irrevocably--the DOC software source code and object code produced from the source, as well as copy and distribute modified versions of this software. You must, however, include this copyright statement along with any code built using DOC software that you release. No copyright statement needs to be provided if you just ship binary executables of your software products.
 
@@ -192,7 +192,7 @@ Back to the ACE home page.</pre><h5>Origins:</h5><ul><li><a href="https://scanco
     9808 [ label = "https://spdx.org/licenses/DOC.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     483 -> 482 [ label = "Same" ]
     484 -> 482 [ label = "AppliesTo" ]
     1582 -> 482 [ label = "Same" ]
@@ -203,7 +203,7 @@ Back to the ACE home page.</pre><h5>Origins:</h5><ul><li><a href="https://scanco
     9849 -> 482 [ label = "AppliesTo" ]
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
-    9892 -> 482 [ label = "AppliesTo" ]
+    9894 -> 482 [ label = "AppliesTo" ]
     482 -> 482 [ label = "HintsTowards" ]
 }
 </pre></body></html>

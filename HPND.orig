@@ -215,15 +215,15 @@
 <polygon fill="black" stroke="black" points="748.24,-211.87 755.69,-204.33 745.17,-205.58 748.24,-211.87"/>
 <text text-anchor="middle" x="740.59" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node14" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="671.59" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="671.59" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;713 -->
+<!-- 9894&#45;&gt;713 -->
 <g id="edge17" class="edge">
-<title>9892&#45;&gt;713</title>
+<title>9894&#45;&gt;713</title>
 <path fill="none" stroke="black" d="M684.92,-173.98C693.54,-163.67 705.39,-150.67 717.59,-141 725.82,-134.47 735.42,-128.42 744.58,-123.25"/>
 <polygon fill="black" stroke="black" points="746.17,-126.37 753.29,-118.52 742.83,-120.21 746.17,-126.37"/>
 <text text-anchor="middle" x="746.59" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -250,7 +250,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>HPND</h3><div class="anchor" id="NodeIndex(713)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] HPND</h3><a href="#NodeIndex(713)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/HPND</h3><div class="anchor" id="NodeIndex(9967)"></div><p>https://opensource.org/licenses/HPND</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/HPND.html</h3><div class="anchor" id="NodeIndex(9815)"></div><p>https://spdx.org/licenses/HPND.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9530)"></div><pre>USE CASE Source code delivery OR Binary delivery
+</div><h2>backward</h2><div class="tree"><h3>HPND</h3><div class="anchor" id="NodeIndex(713)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] HPND</h3><a href="#NodeIndex(713)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] https://opensource.org/licenses/HPND</h3><div class="anchor" id="NodeIndex(9967)"></div><p>https://opensource.org/licenses/HPND</p><h5>Origins:</h5><ul><li><a href="https://github.com/okfn/">okfn licenses</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/HPND.html</h3><div class="anchor" id="NodeIndex(9815)"></div><p>https://spdx.org/licenses/HPND.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $RULE</h3><div class="anchor" id="NodeIndex(9530)"></div><pre>USE CASE Source code delivery OR Binary delivery
 	YOU MUST Provide Copyright notices
 	YOU MUST Provide Copyright notices In Documentation
 	YOU MUST Provide License text In Documentation
@@ -292,7 +292,7 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Origins:</h5><
     9815 [ label = "https://spdx.org/licenses/HPND.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     9967 [ label = "https://opensource.org/licenses/HPND" ]
     714 -> 713 [ label = "Same" ]
     715 -> 713 [ label = "AppliesTo" ]
@@ -310,7 +310,7 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Origins:</h5><
     9849 -> 713 [ label = "AppliesTo" ]
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
-    9892 -> 713 [ label = "AppliesTo" ]
+    9894 -> 713 [ label = "AppliesTo" ]
     9967 -> 713 [ label = "AppliesTo" ]
     9967 -> 714 [ label = "AppliesTo" ]
     713 -> 713 [ label = "HintsTowards" ]

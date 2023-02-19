@@ -162,22 +162,22 @@
 <polygon fill="black" stroke="black" points="87.6,-211.6 95.04,-204.05 84.52,-205.31 87.6,-211.6"/>
 <text text-anchor="middle" x="84.4" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node11" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="646.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="646.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;704 -->
+<!-- 9894&#45;&gt;704 -->
 <g id="edge12" class="edge">
-<title>9892&#45;&gt;704</title>
+<title>9894&#45;&gt;704</title>
 <path fill="none" stroke="black" d="M600.26,-179.59C592,-177.65 583.46,-175.71 575.4,-174 462.66,-150.08 329.44,-126.57 258.6,-114.45"/>
 <polygon fill="black" stroke="black" points="259.3,-111.02 248.86,-112.79 258.13,-117.92 259.3,-111.02"/>
 <text text-anchor="middle" x="513.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Giftware</h3><div class="anchor" id="NodeIndex(704)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Giftware</h3><a href="#NodeIndex(704)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Giftware.html</h3><div class="anchor" id="NodeIndex(9814)"></div><p>https://spdx.org/licenses/Giftware.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] allegro-4</h3><div class="anchor" id="NodeIndex(1821)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(1823)"></div><p>Per SPDX.org, this license may also be known as Allegro 4. The Allegro 5
+</div><h2>backward</h2><div class="tree"><h3>Giftware</h3><div class="anchor" id="NodeIndex(704)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Giftware</h3><a href="#NodeIndex(704)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Giftware.html</h3><div class="anchor" id="NodeIndex(9814)"></div><p>https://spdx.org/licenses/Giftware.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[Same] allegro-4</h3><div class="anchor" id="NodeIndex(1821)"></div><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(1823)"></div><p>Per SPDX.org, this license may also be known as Allegro 4. The Allegro 5
 license shown at the alleg.sourceforge.net URL is the same as zlib.
 </p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(1822)"></div><pre>Allegro 4 (the giftware license)
 
@@ -202,7 +202,7 @@ DISCLAIMER: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPR
     9814 [ label = "https://spdx.org/licenses/Giftware.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     705 -> 704 [ label = "Same" ]
     706 -> 704 [ label = "AppliesTo" ]
     1821 -> 704 [ label = "Same" ]
@@ -214,7 +214,7 @@ DISCLAIMER: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPR
     9849 -> 704 [ label = "AppliesTo" ]
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
-    9892 -> 704 [ label = "AppliesTo" ]
+    9894 -> 704 [ label = "AppliesTo" ]
     704 -> 704 [ label = "HintsTowards" ]
 }
 </pre></body></html>

@@ -150,15 +150,15 @@
 <polygon fill="black" stroke="black" points="225.58,-221.9 221.84,-211.98 218.58,-222.06 225.58,-221.9"/>
 <text text-anchor="middle" x="252.4" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node9" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="743.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="743.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;1010 -->
+<!-- 9894&#45;&gt;1010 -->
 <g id="edge12" class="edge">
-<title>9892&#45;&gt;1010</title>
+<title>9894&#45;&gt;1010</title>
 <path fill="none" stroke="black" d="M697.26,-179.61C688.99,-177.67 680.45,-175.73 672.4,-174 561.5,-150.23 430.39,-126.5 361.4,-114.34"/>
 <polygon fill="black" stroke="black" points="362.41,-110.96 351.96,-112.68 361.2,-117.86 362.41,-110.96"/>
 <text text-anchor="middle" x="612.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
@@ -178,7 +178,7 @@
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>NetCDF</h3><div class="anchor" id="NodeIndex(1010)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] SUSE-NetCDF</h3><div class="anchor" id="NodeIndex(10264)"></div><h5>Origins:</h5><ul><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div></div></div><div class="tree"><h3>&larr;[HintsTowards] NetCDF</h3><a href="#NodeIndex(1010)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/NetCDF.html</h3><div class="anchor" id="NodeIndex(9750)"></div><p>https://spdx.org/licenses/NetCDF.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(6579)"></div><pre>Portions of this software were developed by the Unidata Program at the
+</div><h2>backward</h2><div class="tree"><h3>NetCDF</h3><div class="anchor" id="NodeIndex(1010)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] SUSE-NetCDF</h3><div class="anchor" id="NodeIndex(10264)"></div><h5>Origins:</h5><ul><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div></div></div><div class="tree"><h3>&larr;[HintsTowards] NetCDF</h3><a href="#NodeIndex(1010)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Bronze</h3><div class="anchor" id="NodeIndex(9791)"></div><p>Bronze</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9792)"></div><p>These licenses lack important but nonessential elements of permissive open software licenses or impose additional requirements or restrictions, such as BSD-style prohibitions against endorsement and promotion.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/NetCDF.html</h3><div class="anchor" id="NodeIndex(9750)"></div><p>https://spdx.org/licenses/NetCDF.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(6579)"></div><pre>Portions of this software were developed by the Unidata Program at the
 University Corporation for Atmospheric Research.
 
 Access and use of this software shall impose the following obligations and
@@ -216,7 +216,7 @@ IN CONNECTION WITH THE ACCESS, USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Ori
     9750 [ label = "https://spdx.org/licenses/NetCDF.html" ]
     9791 [ label = "Bronze" ]
     9792 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     10264 [ label = "SUSE-NetCDF" ]
     1011 -> 1010 [ label = "Same" ]
     1012 -> 1010 [ label = "AppliesTo" ]
@@ -229,7 +229,7 @@ IN CONNECTION WITH THE ACCESS, USE OR PERFORMANCE OF THIS SOFTWARE.</pre><h5>Ori
     9791 -> 1010 [ label = "AppliesTo" ]
     9792 -> 9791 [ label = "AppliesTo" ]
     1540 -> 9791 [ label = "AppliesTo" ]
-    9892 -> 1010 [ label = "AppliesTo" ]
+    9894 -> 1010 [ label = "AppliesTo" ]
     1010 -> 1010 [ label = "HintsTowards" ]
     10264 -> 1010 [ label = "HintsTowards" ]
 }

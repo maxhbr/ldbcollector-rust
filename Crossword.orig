@@ -150,22 +150,22 @@
 <polygon fill="black" stroke="black" points="220.91,-221.26 216.37,-211.68 213.95,-221.99 220.91,-221.26"/>
 <text text-anchor="middle" x="249.4" y="-231.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
-<!-- 9892 -->
+<!-- 9894 -->
 <g id="node9" class="node">
-<title>9892</title>
+<title>9894</title>
 <ellipse fill="none" stroke="black" cx="744.4" cy="-192" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="744.4" y="-188.3" font-family="Times,serif" font-size="14.00">Uncategorized</text>
 </g>
-<!-- 9892&#45;&gt;467 -->
+<!-- 9894&#45;&gt;467 -->
 <g id="edge12" class="edge">
-<title>9892&#45;&gt;467</title>
+<title>9894&#45;&gt;467</title>
 <path fill="none" stroke="black" d="M698.67,-179.53C690.29,-177.58 681.6,-175.65 673.4,-174 545.7,-148.31 394.47,-125.47 314.16,-113.94"/>
 <polygon fill="black" stroke="black" points="314.73,-110.48 304.34,-112.53 313.74,-117.41 314.73,-110.48"/>
 <text text-anchor="middle" x="599.4" y="-144.8" font-family="Times,serif" font-size="14.00">AppliesTo</text>
 </g>
 </g>
 </svg>
-</div><h2>backward</h2><div class="tree"><h3>Crossword</h3><div class="anchor" id="NodeIndex(467)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Crossword</h3><a href="#NodeIndex(467)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9892)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Crossword.html</h3><div class="anchor" id="NodeIndex(9805)"></div><p>https://spdx.org/licenses/Crossword.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(3207)"></div><pre>Copyright (C) 1995-2009 Gerd Neugebauer
+</div><h2>backward</h2><div class="tree"><h3>Crossword</h3><div class="anchor" id="NodeIndex(467)"></div><h5>Origins:</h5><ul><li><a href="https://spdx.org/licenses/">SPDX</a></li><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li><li><a href="https://github.com/openSUSE/cavil">cavil</a></li></ul><div><div class="tree"><h3>&larr;[HintsTowards] Crossword</h3><a href="#NodeIndex(467)">&uarr;</a></div><div class="tree"><h3>&larr;[AppliesTo] Uncategorized</h3><div class="anchor" id="NodeIndex(9894)"></div><p>Uncategorized</p><h5>Origins:</h5><ul><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] Lead</h3><div class="anchor" id="NodeIndex(9849)"></div><p>Lead</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div><div class="tree"><h3>&larr;[AppliesTo] Permissive</h3><div class="anchor" id="NodeIndex(1540)"></div><p>Permissive</p><h5>Origins:</h5><ul><li><a href="https://scancode-licensedb.aboutcode.org/">Scancode licensedb</a></li><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li><li><a href="https://github.com/HansHammel/license-compatibility-checker">HansHammel license compatibility checker</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $NOTE</h3><div class="anchor" id="NodeIndex(9850)"></div><p>These licenses lack one or more essential elements of permissive open software licenses or impose unusually burdensome requirements.  Many use unclear, jocular, or incomplete language.</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div></div></div><div class="tree"><h3>&larr;[AppliesTo] https://spdx.org/licenses/Crossword.html</h3><div class="anchor" id="NodeIndex(9805)"></div><p>https://spdx.org/licenses/Crossword.html</p><h5>Origins:</h5><ul><li><a href="https://blueoakcouncil.org/">Blue Oak Council</a></li></ul><div></div></div><div class="tree"><h3>&larr;[AppliesTo] $TEXT</h3><div class="anchor" id="NodeIndex(3207)"></div><pre>Copyright (C) 1995-2009 Gerd Neugebauer
   
 cwpuzzle.dtx is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY. No author or distributor  accepts responsibility to anyone for the
@@ -186,7 +186,7 @@ provided this copyright notice is preserved and any modifications are indicated.
     9805 [ label = "https://spdx.org/licenses/Crossword.html" ]
     9849 [ label = "Lead" ]
     9850 [ label = "$NOTE" ]
-    9892 [ label = "Uncategorized" ]
+    9894 [ label = "Uncategorized" ]
     468 -> 467 [ label = "Same" ]
     469 -> 467 [ label = "AppliesTo" ]
     467 -> 467 [ label = "Same" ]
@@ -198,7 +198,7 @@ provided this copyright notice is preserved and any modifications are indicated.
     9849 -> 467 [ label = "AppliesTo" ]
     9850 -> 9849 [ label = "AppliesTo" ]
     1540 -> 9849 [ label = "AppliesTo" ]
-    9892 -> 467 [ label = "AppliesTo" ]
+    9894 -> 467 [ label = "AppliesTo" ]
     467 -> 467 [ label = "HintsTowards" ]
 }
 </pre></body></html>
